@@ -1,0 +1,21 @@
+{
+  "CONTRACT_ADDRESS": "0x5b07b1084405cDE46a8545319988939861503fdb",
+    "OWNER_ADDRESS": "0x05D5aF0dD6410924b785b9622DABB804EAA0b500",
+
+  "SCAN_LINK": "https://rinkeby.etherscan.io/",
+  "NETWORK": {
+    "NAME": "Rinkeby test network",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "MonalisaVerse",
+  "SYMBOL": "MLV",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 20000000000000,
+  "COST1": 60000000000000000,
+  "DISPLAY_COST": 0.015,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/Monalisaverse",
+  "SHOW_BACKGROUND": true
+}
